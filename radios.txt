@@ -1,0 +1,3 @@
+европа плюс*http://europaplus.hostingradio.ru:8014/ep-top256.mp3
+маяк*http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+вести*http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
